@@ -8,4 +8,4 @@ Read and analyze papers
 - Pre-training on Grayscale ImageNet Improves Medical Image Classification (Yiting Xie et al., CVPR 2018) <a href="https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Xie_Pre-training_on_Grayscale_ImageNet_Improves_Medical_Image_Classification_ECCVW_2018_paper.pdf">Link</a>
 - FDA: Fourier Domain Adaptation for Semantic Segmentation (Yanchao Yang et al., CVPR 2020) <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf">Link</a>
 - Cdtrans: Cross-domain transformer for unsupervised domain adaptation (Xu, Tongkun, et al., arXiv preprint 2021) <a href="https://arxiv.org/pdf/2109.06165.pdf">Link</a>
-- 
+- FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation (Jaemin Na, et al., CVPR 2021)
