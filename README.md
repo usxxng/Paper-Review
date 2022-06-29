@@ -1,6 +1,7 @@
 ## Paper List
 <hr>
-### untitled
+
+### untitle
 - Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary (Hong Joo Lee et al., CVPR 2020) <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Structure_Boundary_Preserving_Segmentation_for_Medical_Image_With_Ambiguous_Boundary_CVPR_2020_paper.pdf">Link</a>
 
 <hr>
@@ -14,6 +15,6 @@
 
 ### Domain Generalization
 - A Fourier-based Framework for Domain Generalization (Qinwei Xu, et al., CVPR 2021) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_A_Fourier-Based_Framework_for_Domain_Generalization_CVPR_2021_paper.pdf">Link</a>
-
-### untitled
+<hr>
+### untitle
 - Pre-training on Grayscale ImageNet Improves Medical Image Classification (Yiting Xie et al., CVPR 2018) <a href="https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Xie_Pre-training_on_Grayscale_ImageNet_Improves_Medical_Image_Classification_ECCVW_2018_paper.pdf">Link</a>
