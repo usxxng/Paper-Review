@@ -9,3 +9,4 @@ Read and analyze papers
 - FDA: Fourier Domain Adaptation for Semantic Segmentation (Yanchao Yang et al., CVPR 2020) <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf">Link</a>
 - Cdtrans: Cross-domain transformer for unsupervised domain adaptation (Xu, Tongkun, et al., arXiv preprint 2021) <a href="https://arxiv.org/pdf/2109.06165.pdf">Link</a>
 - FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation (Jaemin Na, et al., CVPR 2021) <a href="https://arxiv.org/pdf/2011.09230v2.pdf">Link</a>
+- A Fourier-based Framework for Domain Generalization (Qinwei Xu, et al., CVPR 2021) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_A_Fourier-Based_Framework_for_Domain_Generalization_CVPR_2021_paper.pdf">Link</a>
