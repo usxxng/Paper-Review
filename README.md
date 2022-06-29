@@ -1,5 +1,4 @@
 ## Paper List
-<hr>
 
 ### untitle
 - Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary (Hong Joo Lee et al., CVPR 2020) <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Structure_Boundary_Preserving_Segmentation_for_Medical_Image_With_Ambiguous_Boundary_CVPR_2020_paper.pdf">Link</a>
