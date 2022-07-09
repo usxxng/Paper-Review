@@ -16,6 +16,7 @@
 ### Domain Generalization
 - A Fourier-based Framework for Domain Generalization (Qinwei Xu, et al., CVPR 2021) <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_A_Fourier-Based_Framework_for_Domain_Generalization_CVPR_2021_paper.pdf">Link</a>
 - Style Transfer Using Generative Adversarial Networks for Multi-Site MRI Harmonization (Mengting Liu, et al.,  MICCAI 2021) <a href="https://www.biorxiv.org/content/10.1101/2021.03.17.435892v1.full.pdf">Link</a>
+- Semi-Supervised Learning by Augmented Distribution Alignment (Qin Wang, et al., CVPR 2019) <a href="https://arxiv.org/pdf/1905.08171.pdf">Link</a>
 <hr>
 
 ### untitle
