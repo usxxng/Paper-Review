@@ -20,5 +20,5 @@
 - A Simple Feature Augmentation for Domain Generalization (Shaogang Gong, et al., ICCV 2021) <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Li_A_Simple_Feature_Augmentation_for_Domain_Generalization_ICCV_2021_paper.pdf">Link</a>
 <hr>
 
-### untitle
+### Etc
 - Pre-training on Grayscale ImageNet Improves Medical Image Classification (Yiting Xie et al., CVPR 2018) <a href="https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Xie_Pre-training_on_Grayscale_ImageNet_Improves_Medical_Image_Classification_ECCVW_2018_paper.pdf">Link</a>
