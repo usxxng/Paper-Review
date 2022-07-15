@@ -1,8 +1,4 @@
 ## Paper List
-
-### untitle
-- Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary (Hong Joo Lee et al., CVPR 2020) <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Structure_Boundary_Preserving_Segmentation_for_Medical_Image_With_Ambiguous_Boundary_CVPR_2020_paper.pdf">Link</a>
-
 <hr>
 
 ### Domain Adaptation
@@ -22,3 +18,4 @@
 
 ### Etc
 - Pre-training on Grayscale ImageNet Improves Medical Image Classification (Yiting Xie et al., CVPR 2018) <a href="https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Xie_Pre-training_on_Grayscale_ImageNet_Improves_Medical_Image_Classification_ECCVW_2018_paper.pdf">Link</a>
+- Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary (Hong Joo Lee et al., CVPR 2020) <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Structure_Boundary_Preserving_Segmentation_for_Medical_Image_With_Ambiguous_Boundary_CVPR_2020_paper.pdf">Link</a>
